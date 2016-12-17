@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 025dcf0711a7bda43b9364ad9f8e01c4
+timeCreated: 1481342364
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: White Fomor_0
+    21300002: White Fomor_1
+    21300004: White Fomor_2
+    21300006: White Fomor_3
+    21300008: White Fomor_4
+    21300010: White Fomor_5
+    21300012: White Fomor_6
+    21300014: White Fomor_7
+    21300016: White Fomor_8
+    21300018: White Fomor_9
+    21300020: White Fomor_10
+    21300022: White Fomor_11
+    21300024: White Fomor_12
+    21300026: White Fomor_13
+    21300028: White Fomor_14
+    21300030: White Fomor_15
+    21300032: White Fomor_16
+    21300034: White Fomor_17
+    21300036: White Fomor_18
+    21300038: White Fomor_19
+    21300040: White Fomor_20
+    21300042: White Fomor_21
+    21300044: White Fomor_22
+    21300046: White Fomor_23
+    21300048: White Fomor_24
+    21300050: White Fomor_25
+    21300052: White Fomor_26
+    21300054: White Fomor_27
+    21300056: White Fomor_28
+    21300058: White Fomor_29
+    21300060: White Fomor_30
+    21300062: White Fomor_31
+    21300064: White Fomor_32
+    21300066: White Fomor_33
+    21300068: White Fomor_34
+    21300070: White Fomor_35
+    21300072: White Fomor_36
+    21300074: White Fomor_37
+    21300076: White Fomor_38
+    21300078: White Fomor_39
+    21300080: White Fomor_40
+    21300082: White Fomor_41
+    21300084: White Fomor_42
+    21300086: White Fomor_43
+    21300088: White Fomor_44
+    21300090: White Fomor_45
+    21300092: White Fomor_46
+    21300094: White Fomor_47
+    21300096: White Fomor_48
+    21300098: White Fomor_49
+    21300100: White Fomor_50
+    21300102: White Fomor_51
+    21300104: White Fomor_52
+    21300106: White Fomor_53
+    21300108: White Fomor_54
+    21300110: White Fomor_55
+    21300112: White Fomor_56
+    21300114: White Fomor_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Fomor_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 128
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 323
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 323
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 323
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 323
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 323
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 323
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 257
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 257
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 255
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_11
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 255
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 187
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 187
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 187
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 187
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 120
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 187
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 103
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 120
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 167
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 148
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 120
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 37
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 38
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 39
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_27
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 22
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 22
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_32
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 22
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 22
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 25
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_38
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 22
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 22
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 22
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 22
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 22
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_44
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 22
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_45
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_48
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_49
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 22
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_50
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 22
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: White Fomor_57
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

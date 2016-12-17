@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: e5ff554abc2deb34aa936d414da59fde
+timeCreated: 1481495724
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Entrance Hall_0
+    21300002: Entrance Hall_1
+    21300004: Entrance Hall_2
+    21300006: Entrance Hall_3
+    21300008: Entrance Hall_4
+    21300010: Entrance Hall_5
+    21300012: Entrance Hall_6
+    21300014: Entrance Hall_7
+    21300016: Entrance Hall_8
+    21300018: Entrance Hall_9
+    21300020: Entrance Hall_10
+    21300022: Entrance Hall_11
+    21300024: Entrance Hall_12
+    21300026: Entrance Hall_13
+    21300028: Entrance Hall_14
+    21300030: Entrance Hall_15
+    21300032: Entrance Hall_16
+    21300034: Entrance Hall_17
+    21300036: Entrance Hall_18
+    21300038: Entrance Hall_19
+    21300040: Entrance Hall_20
+    21300042: Entrance Hall_21
+    21300044: Entrance Hall_22
+    21300046: Entrance Hall_23
+    21300048: Entrance Hall_24
+    21300050: Entrance Hall_25
+    21300052: Entrance Hall_26
+    21300054: Entrance Hall_27
+    21300056: Entrance Hall_28
+    21300058: Entrance Hall_29
+    21300060: Entrance Hall_30
+    21300062: Entrance Hall_31
+    21300064: Entrance Hall_32
+    21300066: Entrance Hall_33
+    21300068: Entrance Hall_34
+    21300070: Entrance Hall_35
+    21300072: Entrance Hall_36
+    21300074: Entrance Hall_37
+    21300076: Entrance Hall_38
+    21300078: Entrance Hall_39
+    21300080: Entrance Hall_40
+    21300082: Entrance Hall_41
+    21300084: Entrance Hall_42
+    21300086: Entrance Hall_43
+    21300088: Entrance Hall_44
+    21300090: Entrance Hall_45
+    21300092: Entrance Hall_46
+    21300094: Entrance Hall_47
+    21300096: Entrance Hall_48
+    21300098: Entrance Hall_49
+    21300100: Entrance Hall_50
+    21300102: Entrance Hall_51
+    21300104: Entrance Hall_52
+    21300106: Entrance Hall_53
+    21300108: Entrance Hall_54
+    21300110: Entrance Hall_55
+    21300112: Entrance Hall_56
+    21300114: Entrance Hall_57
+    21300116: Entrance Hall_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entrance Hall_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1038
+        width: 672
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 494
+        width: 128
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 866
+        width: 146
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 883
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 702
+        width: 722
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_5
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 509
+        width: 672
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 414
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 316
+        width: 672
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 115
+        width: 256
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_12
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 95
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 40
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 21
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 69
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 66
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 69
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 69
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 69
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_24
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 69
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 69
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_26
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 69
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_27
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 66
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 69
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 52
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 51
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 52
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 49
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_33
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 52
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 51
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_35
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 52
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_36
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 49
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 52
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_38
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 52
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_39
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 51
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_40
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 37
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_41
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 34
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_42
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 37
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_43
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 37
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_44
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 36
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_45
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 36
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_46
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 37
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_47
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 37
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_48
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 36
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 23
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 23
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_51
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 23
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_52
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 23
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 23
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_54
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 21
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_55
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 20
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_56
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 20
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_57
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 20
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Entrance Hall_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
